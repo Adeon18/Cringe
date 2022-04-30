@@ -1,4 +1,3 @@
-# Js Course
-JS homeworks here, what else...
+### Homework 2
 
-- [Homework 1](https://github.com/Adeon18/Cringe/tree/hw_1)
+I want to die. By the way, are private variables a good choice in Dish classes?
