@@ -1,5 +1,10 @@
-# Js Course
-JS homeworks here, what else...
+### Homework 3
 
-- [Homework 1](https://github.com/Adeon18/Cringe/tree/hw_1)
-- [Homework 2](https://github.com/Adeon18/Cringe/tree/hw_2)
+Implemented a square that can:
+- Be moved using click and drag.
+- Cycle colors by right click.
+- Grow or shrink at `Shift + Left Click`
+- Duplicate bu double click
+- Be deleted at `Alt + Double click` until there is > 1 square an board.
+
+*Insert joke about how I hate? JavaScript here? Idk.*
